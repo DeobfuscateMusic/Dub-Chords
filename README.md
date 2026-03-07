@@ -19,7 +19,7 @@ Dub Chords Synthesizer for deep atmospheres and cinematic textures.
 - **Dub Engine**: Specialized in deep, resonant chords with high-feedback delay and atmospheric reverb.
 - **Standalone Mode**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
 - **VST Integration**: Compatible with Ableton Live 12 and other major DAWs via WebView-based VST wrappers.
-- **Zero Dependencies**: Fully offline capable. No internet connection required after initial build.
+- **Zero Dependencies**: Fully offline capable. No internet connection required.
 - **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
 
 ---
