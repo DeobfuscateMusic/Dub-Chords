@@ -1,4 +1,4 @@
-# Dub Chords
+# 𝕯𝖚𝖇 𝕮𝖍𝖔𝖗𝖉𝖘
 
 > Dub Chords Synthesizer for Dub Techno Chords.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Features
+## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Graphical DSP**: Real-time visual feedback powered by a 3D Singularity (Black Hole) simulation.
 - **Dub Engine**: Specialized in deep, resonant chords with high-feedback delay and atmospheric reverb.
@@ -25,7 +25,7 @@
 
 ---
 
-## System Requirements
+## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon.
@@ -33,21 +33,21 @@
 
 ---
 
-## Installation
+## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
-### Standalone
+### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest `Dubchords.dmg`.
 2. Drag to your Applications folder.
 3. Open and start playing.
 
-### VST (Ableton 12)
+### 𝐕𝐒𝐓 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
 1. Copy `Dubchords.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 2. Rescan plugins in Ableton Live 12.
 3. Load `Dub Chords` onto a MIDI track.
 
 ---
 
-## Controls
+## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
 - **Base Note**: Select the root of your dub chords.
 - **Voices**: Control the density of the chord (3 to 5 voices).
@@ -57,4 +57,4 @@
 
 ---
 
-<p align="center"><code>Deobfuscate</code></p>
+<p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
