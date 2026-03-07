@@ -1,5 +1,7 @@
 # Dub Chords
 
+> Dub Chords Synthesizer for Dub Techno Chords.
+
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20(Silicon%20%26%20Intel)-606060?style=flat-square)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20VST3-blueviolet?style=flat-square)
@@ -7,7 +9,6 @@
 
 ---
 
-Dub Chords Synthesizer for deep atmospheres and cinematic textures.
 
 <img width="1422" height="721" alt="DubChordsPreview" src="https://github.com/user-attachments/assets/168eea5f-a01f-42f7-a1d5-63c33c47b5fb" />
 
