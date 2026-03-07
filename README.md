@@ -41,7 +41,7 @@
 3. Open and start playing.
 
 ### VST (Ableton 12)
-1. Copy `Singularity.vst3` to `/Library/Audio/Plug-Ins/VST3`.
+1. Copy `Dubchords.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 2. Rescan plugins in Ableton Live 12.
 3. Load `Dub Chords` onto a MIDI track.
 
