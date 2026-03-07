@@ -43,7 +43,7 @@
 ### VST (Ableton 12)
 1. Copy `Singularity.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 2. Rescan plugins in Ableton Live 12.
-3. Load Dub Chords onto a MIDI track.
+3. Load `Dub Chords` onto a MIDI track.
 
 ---
 
