@@ -9,8 +9,7 @@
 
 ---
 
-
-<img width="1422" height="721" alt="DubChordsPreview" src="https://github.com/user-attachments/assets/168eea5f-a01f-42f7-a1d5-63c33c47b5fb" />
+https://github.com/user-attachments/assets/264a5c15-492f-47bf-b5f2-8f06dd9ffea0
 
 ---
 
