@@ -49,9 +49,12 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
-- **Keybindings**:
-- Bottom Row: `,`, `z`, `x`, `c`, `v`, `b`, `n`, `m`(Lower Octave)
-- Middle Row: `a`, `w`, `s`, `e`, `d`, `f`, `t`, `g`, `y`, `h`, `u`, `j`, `k` (Standard Octave)
+### 𝐐𝐖𝐄𝐑𝐓𝐘 𝐊𝐞𝐲𝐛𝐢𝐧𝐝𝐢𝐧𝐠𝐬
+| Row | Keys | Function |
+| :--- | :--- | :--- |
+| **Middle** | `A` `W` `S` `E` `D` `F` `T` `G` `Y` `H` `U` `J` `K` | Standard Octave Chords |
+| **Bottom** | `,` `Z` `X` `C` `V` `B` `N` `M` | Lower Octave Chords |
+
 - **Base Note**: Select the root of your dub chords.
 - **Voices**: Control the density of the chord (3 to 5 voices).
 - **Pitch**: Transpose the entire engine.
