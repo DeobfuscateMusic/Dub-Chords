@@ -51,8 +51,8 @@
 3. Rescan plugins in Ableton Live 12.
 4. Create a MIDI track & Load `Dub Chords` onto the MIDI track and begin playing.
 
-_You can also download_ [`DubChords1.0.1.Standalone.AU.VST.zip
-`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.Standalone.AU.VST.zip) _with everything inside._
+_You can also download_ [`DubChords1.0.1.Standalone.AU.VST3.zip
+`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.Standalone.AU.VST3.zip) _with everything already inside._
 
 ---
 
