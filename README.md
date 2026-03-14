@@ -2,7 +2,7 @@
 
 > _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies._
 
-![Version](https://img.shields.io/badge/Version-1.0.0-green?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.1-green?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-00CED1?style=flat-square)
@@ -10,7 +10,7 @@
 
 ---
 
-https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
+<img width="1440" height="869" alt="Dubchordspreview" src="https://github.com/user-attachments/assets/12299376-c58f-4757-82d0-aa4799cb1d8d" />
 
 ---
 
@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 ---
 
-<img width="1440" height="868" alt="DubChordsplugin" src="https://github.com/user-attachments/assets/73dad5b4-34b5-495e-9f36-92459ee6fa17" />
+<img width="1440" height="866" alt="Dubchordspluginpreview" src="https://github.com/user-attachments/assets/bc80fdef-e038-4fb2-8a1b-d5a87b415f25" />
 
 ---
 
