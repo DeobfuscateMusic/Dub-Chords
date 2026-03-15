@@ -86,11 +86,11 @@ _You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releas
 1. Drag `DubChords` onto a new MIDI track.
 2. Double-click an empty slot in the track to create a MIDI clip.
 3. **Triggering Chords:** 
-- A single MIDI note will trigger a full dub chord based on your Voices** and Base Note settings.
+- A single MIDI note will trigger a full dub chord based on your Voices and Base Note settings.
 - For best results, use long sustained notes to let the delay and reverb tails breathe.
 4. **Recording Automation:** 
 - Enable `Automation Arm` in your DAW.
-- Move the knobs in the Dub Chords interface during playback. The movements will be recorded directly into your MIDI clip or arrangement.
+- Move the knobs in the `Dub Chords` interface during playback. The movements will be recorded directly into your MIDI clip or arrangement.
 
 ### 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐌𝐚𝐩𝐩𝐢𝐧𝐠 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
 - **DAW Mapping**: All parameters (Cutoff, Feedback, Phaser, etc...) are exposed as standard VST/AU parameters. You can use Ableton's `Configure` mode to map them to your MIDI controller.
@@ -98,7 +98,7 @@ _You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releas
 
 ---
 
-_This software and plugins are free. Don't forget to give a ⭐ on Github if you liked it._
+_This software and plugins are free. Don't forget to give it ⭐ on Github if you liked the project._
 
 ---
 
