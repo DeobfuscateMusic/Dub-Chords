@@ -98,6 +98,13 @@ _You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releas
 
 ---
 
+## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 & 𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐦𝐞𝐧𝐭𝐬
+
+- **Developer**: [Deobfuscate](https://github.com/de0bfusc4tor)
+- **Tester**: [blockletter](https://github.com/braddownie)
+
+---
+
 _This software and plugins are free. Don't forget to give it ⭐ on Github if you liked the project._
 
 ---
