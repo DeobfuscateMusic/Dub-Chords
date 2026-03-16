@@ -30,7 +30,7 @@
 - **Architecture**: Intel & Apple Silicon.
 - **DAW**: Ableton Live 12+
 
-_Note : Works on Ableton Live 11+ but without interface. Support will be included in the future release._
+_Note : Works on Ableton Live 11+ but without interface. Support for Ableton Live 11+ will be included in the future release._
 
 ---
 
