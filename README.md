@@ -28,7 +28,9 @@
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon.
-- **DAW**: Ableton Live 12+ (for VST usage).
+- **DAW**: Ableton Live 12+
+
+_Note : Works on Ableton Live 11+ but without interface. Support will be included in the future release._
 
 ---
 
