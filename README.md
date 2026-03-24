@@ -37,26 +37,26 @@ _Note : Works on Ableton Live 11+ but without interface. Support for Ableton Liv
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`Dub.Chords1.0.1.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.app.zip)
+1. Download the latest [`Dub.Chords1.0.1.app.zip`](https://github.com/DeobfuscateMusic/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.app.zip)
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Chords` and begin playing.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
-1. Download the latest [`DubChords.component.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.component.zip)
+1. Download the latest [`DubChords.component.zip`](https://github.com/DeobfuscateMusic/Dub-Chords/releases/download/DubChords1.0.1/DubChords.component.zip)
 2. Extract & Copy `Dubchords.component` to `/Library/Audio/Plug-Ins/Components`.
 3. Rescan plugins in Ableton Live 12.
 4. Create a MIDI track & Load `Dub Chords` onto the MIDI track and begin playing.
 
 ### 𝐕𝐒𝐓𝟑 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
-1. Download the latest [`DubChords.vst3.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.vst3.zip)
+1. Download the latest [`DubChords.vst3.zip`](https://github.com/DeobfuscateMusic/Dub-Chords/releases/download/DubChords1.0.1/DubChords.vst3.zip)
 2. Extract & Copy `Dubchords.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 3. Rescan plugins in Ableton Live 12.
 4. Create a MIDI track & Load `Dub Chords` onto the MIDI track and begin playing.
 
 _You can download [`DubChords1.0.1.Standalone.AU.VST3.zip
-`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.Standalone.AU.VST3.zip) with everything already inside._
+`](https://github.com/DeobfuscateMusic/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.Standalone.AU.VST3.zip) with everything already inside._
 
-_You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releases/tag/DubChords1.0.1)._
+_You can also check [Releases](https://github.com/DeobfuscateMusic/Dub-Chords/releases)._
 
 ---
 
@@ -102,7 +102,7 @@ _You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releas
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 & 𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐦𝐞𝐧𝐭𝐬
 
-- **Developer**: [Deobfuscate](https://github.com/de0bfusc4tor)
+- **Developer**: [Deobfuscate](https://github.com/DeobfuscateMusic)
 - **Tester**: [blockletter](https://github.com/braddownie)
 
 ---
