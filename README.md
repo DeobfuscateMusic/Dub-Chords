@@ -1,6 +1,6 @@
-# 𝕯𝖚𝖇 𝕮𝖍𝖔𝖗𝖉𝖘
+<p align="center"><img width="410" height="101" alt="Dub_Chords_Banner_S" src="https://github.com/user-attachments/assets/8b428aa0-960b-417c-a334-c9f7efd1dd69" /></p>
 
-> _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies._
+ _<p align="center">Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes for Dub Techno textures and melodies.</p>_
 
 ![Version](https://img.shields.io/badge/Version-1.0.1-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
