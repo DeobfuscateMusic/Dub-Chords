@@ -10,7 +10,7 @@
 
 ---
 
-<img width="1440" height="869" alt="Dubchordspreview" src="https://github.com/user-attachments/assets/12299376-c58f-4757-82d0-aa4799cb1d8d" />
+https://github.com/user-attachments/assets/1f78e813-5477-404e-b248-cf5ee1a5369b
 
 ---
 
